@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+*.pid
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+tmp/
+.cache/
